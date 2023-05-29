@@ -1,2 +1,2 @@
-my first upedated readme
+my Update first readme
 
